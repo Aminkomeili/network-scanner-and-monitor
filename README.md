@@ -7,6 +7,7 @@ This is a Python script for scanning and monitoring a network using the followin
 3. psutil for getting system resource usage information
 4. pyshark for live network traffic capture and analysis
 
+
 ## Installation
 
 1. Clone the repository: git clone https://github.com/username/network-scanner-monitor.git
